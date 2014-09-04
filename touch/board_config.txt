@@ -1,0 +1,1 @@
+# This config file is only for touch SKU
